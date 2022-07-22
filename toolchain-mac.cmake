@@ -1,4 +1,4 @@
-list(APPEND CMAKE_PREFIX_PATH "$HOME/JUCE/mac")
+list(APPEND CMAKE_PREFIX_PATH "$ENV{HOME}/JUCE/mac")
 
 # Sample toolchain file for building for Mac OS X from an Ubuntu Linux system.
 #
