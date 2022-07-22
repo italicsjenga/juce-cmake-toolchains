@@ -1,3 +1,4 @@
 mac/*
 win/*
+win-mingw/*
 .vscode/*
